@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program to Size is not grandeur, and territory does not make a nation
+ * main - A program to Size is not grandeur, and territory
  * Retrun: 0 (Success)
  */
 int main(void)
