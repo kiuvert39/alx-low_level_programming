@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description:  A column of asterisks on the left side
- * Retrun: 0 (Success)
+ * main - main block
+ * Return: 0
  */
 int main(void)
 {
