@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - A program to Size is not grandeur, and territory
+ * main - Entry point
+ * Description:  A column of asterisks on the left side
  * Retrun: 0 (Success)
  */
 int main(void)
